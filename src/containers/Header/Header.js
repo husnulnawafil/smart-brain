@@ -5,7 +5,7 @@ import Navigation from '../../components/Navigation/Navigation';
 
 const Header =()=>{
     return (
-        <div className='flex w-100'>
+        <div className='flex ma3 w-100'>
             <Logo/>
             <Navigation/>
         </div>
